@@ -10,9 +10,6 @@ I've being learning to code for more than 5 years and I'm passionate to transfor
 * 🧠  I'm learning Machine Learning, Deep Learning, Generative AI
 * 🤝  I'm open to collaborating on Data Scientist Projects
 
-<a href="https://www.github.com/estefaniaarias0597" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/estefaniaarias0597?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
